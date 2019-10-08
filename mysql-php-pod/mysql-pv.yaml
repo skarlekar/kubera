@@ -5,8 +5,8 @@ metadata:
 spec:
   storageClassName: dbstore
   capacity:
-    storage: 2Gi
+    storage: 5Gi
   accessModes:
     - ReadWriteOnce
   hostPath:
-    path: "/media/usb-flash"
+    path: "/media/usb"
