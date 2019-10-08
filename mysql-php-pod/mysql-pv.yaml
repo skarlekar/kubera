@@ -9,4 +9,4 @@ spec:
   accessModes:
     - ReadWriteOnce
   hostPath:
-    path: "/media/usb"
+    path: "/media/usb/mysql-storage"
